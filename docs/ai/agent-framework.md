@@ -30,3 +30,4 @@
 - [luisquintanilla/hello-world-agents](https://github.com/luisquintanilla/hello-world-agents) - Sample .NET app using Microsoft Agent Framework to showcase collaborative AI agents (e.g. writer + editor) with web & console interfaces.
 - [elbruno/elbruno.agentsorchestration](https://github.com/elbruno/elbruno.agentsorchestration) - A lightweight .NET library for orchestrating multiple AI agents through a 6-step pipeline (Plan → Parse → Execute → Verify → Review → Report).
 - [luisquintanilla/dotnet-ai-e2e](https://github.com/luisquintanilla/dotnet-ai-e2e) - End-to-end .NET AI demo: MEAI, MAF, MCP, Aspire, Vector Data, Python polyglot agents, and AI Evaluation
+- [NikiforovAll/maf-getting-started](https://github.com/NikiforovAll/maf-getting-started) - Microsoft Agent Framework (MAF) getting started — presentation series with runnable .NET samples

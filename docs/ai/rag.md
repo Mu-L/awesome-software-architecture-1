@@ -18,7 +18,8 @@
 - [.NET AI Community Standup - Phi-3 & C#: Bringing AI to your .NET Apps](https://www.youtube.com/watch?v=fbojvzHGtkM)
 
 ## Libraries
-- [microsoft/kernel-memory](https://github.com/microsoft/kernel-memory) - RAG architecture: index and query any data using LLM and natural language, track sources, show citations, asynchronous memory patterns
+- [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
+- [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 
 ## Samples
 - [NikiforovAll/notebook-agent](https://github.com/NikiforovAll/notebook-agent) - Demonstrates how to use Semantic Kernel and Kernel Memory in a polyglot notebook environment.
